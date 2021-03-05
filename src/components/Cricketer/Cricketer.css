@@ -1,0 +1,14 @@
+.cricketer-img{
+    width: 400px;
+}
+.cricketer{
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+    margin-right: 10px;
+}
+@media (max-width: 575.98px) {
+    .cricketer{
+        border-right: none;
+    }
+}

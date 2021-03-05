@@ -1,0 +1,10 @@
+.all-cricketers{
+    width: 80%;
+}
+@media (max-width: 575.98px) {
+    .all-cricketers{
+        width: 100%;
+    }
+}
+
+
